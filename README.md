@@ -1,16 +1,16 @@
-# CognitoBlox
+# Cognito Blox
 
 **Professional interactive learning elements for Rise 360 and web development**
 
-CognitoBlox provides accessible, customizable HTML/CSS/JavaScript components that integrate seamlessly with Articulate Rise 360's Custom Code blocks and other web platforms.
+Cognito Blox provides accessible, customizable HTML/CSS/JavaScript components that integrate seamlessly with Articulate Rise 360's Custom Code blocks and other web platforms.
 
 ---
 
-## 🚀 How to Use CognitoBlox
+## 🚀 How to Use Cognito Blox
 
 ### Step 1: Select a Component
 
-Visit [CognitoBlox](http://localhost:3000) and browse the available learning components:
+Visit [Cognito Blox](https://cognitoblox.netlify.app/) and browse the available learning components:
 
 - **Reflective Journal** - Text area for personal reflections with local storage
 - **Scenario Judgement Card** - Decision-making scenarios with feedback
